@@ -1,6 +1,4 @@
-✅ 1. password-checker/README.md
-markdown
-Copy code
+
 # 🔐 Password Strength Checker
 
 A simple Python tool to check the strength of a password based on length, uppercase, lowercase, digits, and special characters.
